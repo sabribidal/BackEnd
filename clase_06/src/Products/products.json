@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Chocolinas",
+    "description": "Galletitas de chocolate",
+    "price": 1000.99,
+    "thumbnail": "https://www.deliargentina.com/image/cache/catalog/product/alimentacion/galletitas-chocolinas-bagley-argentinas/chocolinas-250gr--galletitas-argentinas-rincon-gaucho-yerba-mate-verdeflor-carne-argentina-productos-argentinos-galletitas-argentinas-335x335.jpg",
+    "code": "abc123",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "Danette",
+    "description": "Postre de chocolate",
+    "price": 990,
+    "thumbnail": "https://dcdn.mitiendanube.com/stores/001/108/127/products/danette-chocolatebyb1-d38c76740dce72452c16025141342924-640-0.png",
+    "code": "abc123",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "Chocolate Milka",
+    "description": "Chocolate con leche aireado",
+    "price": 1800,
+    "thumbnail": "https://masonlineprod.vtexassets.com/arquivos/ids/278107-800-auto?v=638163273852700000&width=800&height=auto&aspect=true",
+    "code": "abc123",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Fideos Marolio",
+    "description": "Fideos de sémola",
+    "price": 200,
+    "thumbnail": "https://n9.cl/yw7x2",
+    "code": "abc124",
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "title": "Yerba Mate Taragüi",
+    "description": "Yerba mate con palo",
+    "price": 800,
+    "thumbnail": "https://www.taragui.com/wp-content/uploads/2020/08/yerba-mate-taragui-tradicional-500g-1.png",
+    "code": "abc125",
+    "stock": 75
+  },
+  {
+    "id": 6,
+    "title": "Dulce de Leche La Serenísima",
+    "description": "Dulce de leche clásico",
+    "price": 1200,
+    "thumbnail": "https://www.laserenisima.com.ar/wp-content/uploads/2020/04/dulce-de-leche-tradicional.png",
+    "code": "abc126",
+    "stock": 30
+  },
+  {
+    "id": 7,
+    "title": "Aceite Natura",
+    "description": "Aceite de girasol",
+    "price": 500,
+    "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/001/175/350/products/natura-aceite-girasol-pet-15l1-0e60cb5f9d2efbeac415914744711570-640-0.jpg",
+    "code": "abc127",
+    "stock": 60
+  },
+  {
+    "id": 8,
+    "title": "Harina Blancaflor",
+    "description": "Harina leudante",
+    "price": 300,
+    "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/227083/Harina-Leudante-Blancaflor-1-Kg-1-846949.jpg",
+    "code": "abc128",
+    "stock": 40
+  },
+  {
+    "id": 9,
+    "title": "Arroz Gallo Oro",
+    "description": "Arroz doble carolina",
+    "price": 250,
+    "thumbnail": "https://arrozgallo.com.ar/wp-content/uploads/2019/06/GalloOro-1kg.png",
+    "code": "abc129",
+    "stock": 90
+  },
+  {
+    "id": 10,
+    "title": "Mayonesa Hellmann's",
+    "description": "Mayonesa clásica",
+    "price": 700,
+    "thumbnail": "https://www.hellmanns.com/content/dam/unilever/hellmann_s/argentina/pack_shot/front/hellmanns-mayonesa_clasica-87528228.png",
+    "code": "abc130",
+    "stock": 20
+  }
+]
